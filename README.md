@@ -12,7 +12,7 @@
 Como Ingeniero en Informática, el desarrollo se rigió bajo estándares internacionales de escalabilidad y mantenibilidad:
 
 *   **Backend Robusto:** Lógica de negocio avanzada implementada con **Python** y el framework **Django**, gestionando flujos complejos de pedidos, estados de cocina y transacciones financieras.
-*   **Interfaz Dinámica (PWA Ready):** Frontend responsivo desarrollado con **Tailwind CSS** y **JavaScript**, optimizado tanto para dispositivos móviles de clientes como para terminales de punto de venta (POS).
+*   **Interfaz Dinámica:** Frontend responsivo desarrollado con **Tailwind CSS** y **JavaScript**, optimizado tanto para dispositivos móviles de clientes como para terminales de punto de venta (POS).
 *   **Seguridad Multicapa:** Sistema de autenticación con protección de datos, middlewares de seguridad y validaciones de sesión basadas en estándares de la industria.
 *   **Arquitectura de Datos:** Diseño de base de datos relacional (**PostgreSQL/SQLite**) optimizado para consultas de reportes financieros y gestión de inventario en tiempo real.
 
