@@ -37,9 +37,9 @@ Control centralizado para la toma de decisiones basada en datos, incluyendo gest
 <br>
 Interfaz intuitiva diseñada para minimizar la fricción en el pedido, permitiendo búsqueda rápida y selección de modalidades.
 
-| Buscador de Platos | Pedido en Mesa | Home Usuario |
+| Buscador de Platos | Pedido en Mesa | Pedido a Domicilio |
 | :---: | :---: | :---: |
-| ![Busqueda](Imagenes_Proyecto/visual_usuario/usuario_busqueda_platos.png) | ![Mesa](Imagenes_Proyecto/visual_usuario/usuario_pedido_mesa_v1.png) | ![Home](Imagenes_Proyecto/visual_usuario/usuario_home_v1.png) |
+| ![Busqueda](Imagenes_Proyecto/visual_usuario/usuario_busqueda_platos.png) | ![Mesa](Imagenes_Proyecto/visual_usuario/usuario_pedido_mesa_v1.png) | ![Home](Imagenes_Proyecto/visual_usuario/usuario_pedido_domiciliov2.png) |
 </details>
 
 <details>
