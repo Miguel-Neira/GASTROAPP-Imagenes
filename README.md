@@ -39,7 +39,7 @@ Interfaz intuitiva diseñada para minimizar la fricción en el pedido, permitien
 
 | Buscador de Platos | Pedido en Mesa | Pedido a Domicilio |
 | :---: | :---: | :---: |
-| ![Busqueda](Imagenes_Proyecto/visual_usuario/usuario_busqueda_platos.png) | ![Mesa](Imagenes_Proyecto/visual_usuario/usuario_pedido_mesa_v1.png) | ![Home](Imagenes_Proyecto/visual_usuario/usuario_pedido_domiciliov2.png) |
+| ![Busqueda](Imagenes_Proyecto/visual_usuario/usuario_busqueda_platos.png) | ![Mesa](Imagenes_Proyecto/visual_usuario/usuario_pedido_mesa_v1.png) | ![Home](Imagenes_Proyecto/visual_usuario/usuario_pedido_domicilio_v2.png) |
 </details>
 
 <details>
