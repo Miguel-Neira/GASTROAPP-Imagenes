@@ -78,7 +78,6 @@ Soy **Miguel Alejandro Neira Nadal**, Ingeniero en Informática enfocado en crea
 
 ### ¡Conectemos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-neira-nadal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-neira-nadal-906274332)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Miguel-Neira)
 
-*Desarrollado con dedicación - 2026*
